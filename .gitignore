@@ -1,3 +1,7 @@
+## This repo only
+data/
+
+## Default GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
